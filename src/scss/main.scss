@@ -1,0 +1,22 @@
+// VARIABLE
+$primary-col: red;
+$second-col: lightgreen;
+$main-back: #000;
+
+// GENERA
+body {
+    background: $main-back;
+    color: #fff;
+}
+h1 {
+    color: $primary-col;
+}
+h2 {
+    color: $primary-col;
+}
+h3 {
+    color: $primary-col;
+}
+p {
+    color : $second-col;
+}
